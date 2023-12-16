@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/vortext_math.iml" filepath="$PROJECT_DIR$/.idea/vortext_math.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/vortex_math.iml" filepath="$PROJECT_DIR$/.idea/vortex_math.iml" />
     </modules>
   </component>
 </project>
